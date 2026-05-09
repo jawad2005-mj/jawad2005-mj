@@ -62,10 +62,12 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 |---------|--------|----------|
 | [💳 Credit Card Fraud Detection](https://github.com/jawad2005-mj/Credit-Card-Fraud-Detection-ML) | Finance | Random Forest, SMOTE, FastAPI, CustomTkinter |
 | [🧩 Customer Segmentation & Analytics](https://github.com/jawad2005-mj/Customer-Segmentation-KMeans-API) | Marketing | K-Means, Decision Tree, FastAPI, Tkinter |
-| [❤️ CardioGuard AI — Heart Disease Prediction](https://github.com/jawad2005-mj) | Healthcare | Decision Tree, StandardScaler, CustomTkinter |
-| [🧬 Parkinson's Disease Detection](https://github.com/jawad2005-mj) | Healthcare | SVM, GridSearchCV, 22 Biomedical Vocal Metrics |
+| [❤️ CardioGuard AI — Heart Disease Prediction](#) | Healthcare | Decision Tree, StandardScaler, CustomTkinter |
+| [🧬 Parkinson's Disease Detection](#) | Healthcare | SVM, GridSearchCV, 22 Biomedical Vocal Metrics |
 | [📊 Student CGPA Calculator](https://github.com/jawad2005-mj/student-cgpa-calculator-streamlit) | Education | Python, Streamlit |
 | [🏪 Stock & Billing System](https://github.com/jawad2005-mj/product-stock-and-billing-system) | Business | Python, OOP |
+
+> 💡 *CardioGuard AI and Parkinson's Detection repos coming soon — currently in final deployment phase.*
 
 ---
 
@@ -81,10 +83,20 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 
 ---
 
+## Education
+
+| Degree | Institution | Period | Grade |
+|--------|-------------|--------|-------|
+| 🎓 B.Sc. Software Engineering | Islamia University of Bahawalpur | 2023 – 2027 | **A** |
+| 📘 Intermediate – Pre-Medical | Zakariya Science College | 2021 – 2023 | **A** |
+| 📗 Matriculation – Science | Zakariya Science College | 2019 – 2021 | **A+ (Distinction)** |
+
+---
+
 ## Certifications
 
-- 📜 **Intermediate Python for Developers** — DataCamp | Oct 2025
-- 📜 **Introduction to Programming Using Python** — DataCamp | Oct 2025
+- 📜 **Intermediate Python for Developers** — DataCamp | Oct 2025 | `#43,826,371`
+- 📜 **Introduction to Programming Using Python** — DataCamp | Oct 2025 | `#40,046,594`
 - 📜 **Python Streamlit Certification** — Streamlit | 2025
 
 ---
@@ -97,13 +109,26 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawad2005-mj&layout=compact&theme=default&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=jawad2005-mj&theme=default&hide_border=true)
+
 </div>
+
+---
+
+## Languages
+
+- 🇬🇧 **English** — Professional Proficiency
+- 🇵🇰 **Urdu** — Native
 
 ---
 
 <div align="center">
 
-📩 **jawad48332@gmail.com** | 📞 +92-341-8148332 | 📍 Bahawalpur, Pakistan
+### Let's Connect!
+
+📩 [jawad48332@gmail.com](mailto:jawad48332@gmail.com) &nbsp;|&nbsp; 📍 Bahawalpur, Pakistan
+
+*"Building AI that makes a difference — one model at a time."*
 
 <img src="https://komarev.com/ghpvc/?username=jawad2005-mj&color=blue&style=flat-square" alt="Profile views" />
 
