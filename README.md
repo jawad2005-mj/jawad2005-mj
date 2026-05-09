@@ -24,6 +24,15 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 
 ---
 
+## What I'm Up To
+
+- 🔭 Currently working on **CardioGuard AI** and **Parkinson's Disease Detection System**
+- 🌱 Currently learning **Deep Learning** and **LLMs / RAG pipelines**
+- 👯 Open to collaborate on **ML/AI open-source projects**
+- 💬 Ask me about **Python, Scikit-Learn, FastAPI, ML deployment**
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -65,7 +74,7 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 | [❤️ CardioGuard AI — Heart Disease Prediction](#) | Healthcare | Decision Tree, StandardScaler, CustomTkinter |
 | [🧬 Parkinson's Disease Detection](#) | Healthcare | SVM, GridSearchCV, 22 Biomedical Vocal Metrics |
 | [📊 Student CGPA Calculator](https://github.com/jawad2005-mj/student-cgpa-calculator-streamlit) | Education | Python, Streamlit |
-| [🏪 Stock & Billing System](https://github.com/jawad2005-mj/product-stock-and-billing-system) | Business | Python, OOP |
+| [🏪 Stock & Billing System](https://github.com/jawad2005-mj/product-stock-and-billing-system) | Business | Python, OOP, Streamlit |
 
 > 💡 *CardioGuard AI and Parkinson's Detection repos coming soon — currently in final deployment phase.*
 
@@ -105,13 +114,31 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 
 <div align="center">
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jawad2005-mj&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 ![Muhammad Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad2005-mj&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawad2005-mj&layout=compact&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jawad2005-mj&theme=default&hide_border=true)
 
+<br/>
+
+[![Jawad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jawad2005-mj&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
+
+---
+
+## Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
