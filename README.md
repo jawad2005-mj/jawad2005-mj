@@ -132,16 +132,6 @@ I'm a **Machine Learning Engineer & Data Scientist** currently working at **Inte
 
 ---
 
-## Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawad2005-mj/.github/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## Languages
 
 - 🇬🇧 **English** — Professional Proficiency
