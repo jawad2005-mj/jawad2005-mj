@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Muhammad Jawad 👋
+ML Engineer & Data Scientist | Python · Scikit-Learn · FastAPI
 
-<!--
-**jawad2005-mj/jawad2005-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working at **IntelliXsoft** as Python & ML Developer
+🎓 BSc Software Engineering @ Islamia University of Bahawalpur (6th Semester)
+🌱 Building end-to-end ML systems in healthcare, finance & marketing
+📫 jawad48332@gmail.com | Open to internships
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Python | Scikit-Learn | TensorFlow | FastAPI | Pandas | SQL | Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔐 Credit Card Fraud Detection (Random Forest + SMOTE + FastAPI)
+- 🏥 CardioGuard AI — Heart Disease Prediction
+- 🧠 Parkinson's Disease Detection (SVM + GridSearchCV)
+- 📊 Customer Segmentation & Analytics (K-Means + Dashboard)
